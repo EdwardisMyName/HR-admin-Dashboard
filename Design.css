@@ -1,0 +1,57 @@
+.heading{
+    text-align: center;
+    color: darkblue;
+    margin-top: 75px;
+    margin-bottom: 70px;
+    font-size: 35px;
+}
+
+.column{
+    float: left;
+    width: 21%;
+    padding: 15px;
+    margin: 20px;
+    height: 250px;
+}
+
+.project-text {
+  text-align:center;
+  font-size:50px;
+}
+
+
+/* Color and Images for Project Containers  */
+
+.project-1 {
+  background: url('Johnservices.png');
+  background-size: cover;
+}
+
+.project-2 {
+  background-color:#209BFF;
+}
+
+.project-3 {
+  background-color:#209BFF;
+}
+
+.project-4 {
+  background-color:#112d4e;
+}
+
+.project-5 {
+  background-color:#209BFF;
+}
+
+.project-6 {
+  background-color:#209BFF;
+}
+
+.project-7 {
+    background-color:#ffffff00;
+}
+
+.project-8 {
+  background: url('Johnservices.png');
+  background-size: cover;
+}
